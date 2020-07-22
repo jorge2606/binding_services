@@ -1,6 +1,6 @@
 {
   "energy": {
-    "items": [
+    "listItems": [
       {
         "id": 1,
         "description": "energy 1"
@@ -16,7 +16,7 @@
     ]
   },
   "water": {
-    "items": [
+    "listItems": [
       {
         "id": 1,
         "description": "water 1"
@@ -32,7 +32,7 @@
     ]
   },
   "oil": {
-    "items": [
+    "listItems": [
       {
         "id": 1,
         "description": "oil 1"
@@ -48,7 +48,7 @@
     ]
   },
   "phone": {
-    "items": [
+    "listItems": [
       {
         "id": 1,
         "description": "phone 1"
@@ -64,7 +64,7 @@
     ]
   },
   "wifi": {
-    "items": [
+    "listItems": [
       {
         "id": 1,
         "description": "wifi 1"
