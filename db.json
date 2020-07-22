@@ -1,24 +1,98 @@
 {
-    "evaluation": {},
-    "currentLocation": {},
-    "segment": {
-        "items": [
-            {
-                "description": "comercio",
-                "value": "comercio"
-            },
-            {
-                "description": "producción",
-                "value": "producción"
-            },
-            {
-                "description": "servicio",
-                "value": "servicio"
-            },
-            {
-                "description": "transporte",
-                "value": "transporte"
-            }
-        ]
-    }
+  "energy": {
+    "items": [
+      {
+        "id": 1,
+        "description": "energy 1"
+      },
+      {
+        "id": 2,
+        "description": "energy 2"
+      },
+      {
+        "id": 3,
+        "description": "energy 3"
+      }
+    ]
+  },
+  "water": {
+    "items": [
+      {
+        "id": 1,
+        "description": "water 1"
+      },
+      {
+        "id": 2,
+        "description": "water 2"
+      },
+      {
+        "id": 3,
+        "description": "water 3"
+      }
+    ]
+  },
+  "oil": {
+    "items": [
+      {
+        "id": 1,
+        "description": "oil 1"
+      },
+      {
+        "id": 2,
+        "description": "oil 2"
+      },
+      {
+        "id": 3,
+        "description": "oil 3"
+      }
+    ]
+  },
+  "phone": {
+    "items": [
+      {
+        "id": 1,
+        "description": "phone 1"
+      },
+      {
+        "id": 2,
+        "description": "phone 2"
+      },
+      {
+        "id": 3,
+        "description": "phone 3"
+      }
+    ]
+  },
+  "wifi": {
+    "items": [
+      {
+        "id": 1,
+        "description": "wifi 1"
+      },
+      {
+        "id": 2,
+        "description": "wifi 2"
+      },
+      {
+        "id": 3,
+        "description": "wifi 3"
+      }
+    ]
+  },
+  "tv": {
+    "items": [
+      {
+        "id": 1,
+        "description": "tv 1"
+      },
+      {
+        "id": 2,
+        "description": "tv 2"
+      },
+      {
+        "id": 3,
+        "description": "tv 3"
+      }
+    ]
+  }
 }
