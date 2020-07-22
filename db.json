@@ -78,21 +78,5 @@
         "description": "wifi 3"
       }
     ]
-  },
-  "tv": {
-    "items": [
-      {
-        "id": 1,
-        "description": "tv 1"
-      },
-      {
-        "id": 2,
-        "description": "tv 2"
-      },
-      {
-        "id": 3,
-        "description": "tv 3"
-      }
-    ]
   }
 }
